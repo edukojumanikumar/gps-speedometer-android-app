@@ -37,20 +37,11 @@ Include screenshots like:
 
 - In-app simulation using Android emulator
 - Map route testing with speed alerts
-- [Optionally link a YouTube video or demo folder]
 
 ## 👨‍🎓 Course
 
 **INFS 611 – Rapid Information Systems Prototyping**  
 George Mason University, Spring 2024  
-**Group 4 Members**:  
-- Mani Kumar Edukoju  
-- Sai Amartya Maruth Mandedi  
-- Ashrith Bhooka Ravinandan  
-- Jinyang Li  
-- Vignesh Thangellapally  
-
----
 
 ## 💡 Future Improvements
 
